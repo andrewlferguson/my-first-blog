@@ -25,6 +25,9 @@ Install django into virtual environment:
 ###################################################################
 # Follow http://tutorial.djangogirls.org/en/django_start_project/ #
 ###################################################################
+#
+# N.B. 'git push' requires 'sudo git push'
+#
 
 Deactivate virtual environment:
 >> source deactivate
