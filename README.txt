@@ -34,3 +34,4 @@ Deactivate virtual environment:
 
 Delete virtual environment:
 >> sudo conda remove -n myenv -all
+
